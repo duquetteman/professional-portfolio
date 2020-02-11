@@ -74,6 +74,11 @@ input, select, textarea {
 .roundedTop {
 	border-radius: 10px 10px 0px 0px;
 }
+
+.homeButtonBlue {
+	width: 220px;
+	text-align: center;
+}
 /* Basic */
 
 	html {
