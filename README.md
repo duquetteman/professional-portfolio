@@ -7,9 +7,12 @@ I wanted to create a professional portfolio to showcase my work and provide a re
 This page uses a header with selectable links that redirect the user to the corresponding section. 
 
 ## Instructions
-This is a live website. Go to http://www.patrickduquette.com to view. 
+This is a live website. Go to http://patrickduquette.com to view. 
 
 I used namecheap to register the domain. I also set up webmail with a custom domain. It's patrick@patrickduquette.com. Send me an email, or use the contact me form on the webdite. It works great. 
+
+## Screenshot:
+<img src="images/screenShotHome.png" title="The team" alt="The team" width=600px>
 
 ## Acknowledgements
 This page was made using a template created by:
