@@ -2006,6 +2006,11 @@ input, select, textarea {
 				margin-bottom: 20px;
 				color: orangered;
 			}
+			.fa-wrench {
+				font-size: 80px;
+				margin-bottom: 20px;
+				color: blue;
+			}
 /* Wrappers */
 
 	.wrapper {
